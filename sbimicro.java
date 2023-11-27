@@ -1,6 +1,8 @@
 import java.util.Scanner;  
 import java.lang.Math;  
 
+
+27nov23 day 2
 import java.io.printer; 
 import java.io.collection; 
 import java.io.scanner;
